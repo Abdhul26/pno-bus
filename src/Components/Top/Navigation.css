@@ -1,0 +1,40 @@
+/* Center the navigation links */
+.nav-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Style for the navigation links */
+.nav-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding: 10px 20px; */
+  /* margin: 10px; */
+  border: 2px solid #3498db; /* Change the color as desired */
+  border-radius: 5px;
+  text-decoration: none;
+  color: #3498db; /* Change the color as desired */
+  font-weight: bold;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Hover effect for the navigation links */
+.nav-link:hover {
+  background-color: #3498db; /* Change the color as desired */
+  color: white;
+}
+
+.center {
+  display: flex;
+  color: #3498db;
+  /* background-color: #3498db; */
+  justify-content: center;
+  font-weight: 800;
+  align-items: center;
+}
+.small {
+  font-size: smaller;
+}
