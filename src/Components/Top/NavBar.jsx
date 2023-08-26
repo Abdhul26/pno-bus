@@ -21,7 +21,6 @@ function NavBar() {
             <Navbar.Brand className='center' href='#'>
               ParangiPettai Bus Timing
             </Navbar.Brand>
-            <p className='small'>Credits: PNO-PNS</p>
             <Navbar.Offcanvas
               id={`offcanvasNavbar-expand-${expand}`}
               aria-labelledby={`offcanvasNavbarLabel-expand-${expand}`}

@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pno-bus/static/css/main.bb2e473e.css",
-    "main.js": "/pno-bus/static/js/main.51e8ed14.js",
-    "index.html": "/pno-bus/index.html",
-    "main.bb2e473e.css.map": "/pno-bus/static/css/main.bb2e473e.css.map",
-    "main.51e8ed14.js.map": "/pno-bus/static/js/main.51e8ed14.js.map"
+    "main.css": "/static/css/main.bb2e473e.css",
+    "main.js": "/static/js/main.81a1087b.js",
+    "index.html": "/index.html",
+    "main.bb2e473e.css.map": "/static/css/main.bb2e473e.css.map",
+    "main.81a1087b.js.map": "/static/js/main.81a1087b.js.map"
   },
   "entrypoints": [
     "static/css/main.bb2e473e.css",
-    "static/js/main.51e8ed14.js"
+    "static/js/main.81a1087b.js"
   ]
 }
