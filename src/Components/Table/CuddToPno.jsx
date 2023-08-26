@@ -406,37 +406,37 @@ const PnoToCdm: React.FC = () => {
           {
             key: 'no',
             title: 'No',
-            style: { width: 20 },
+            style: { width: 0 },
             dataType: DataType.Number,
           },
           {
             key: 'busName',
             title: 'Name',
             dataType: DataType.String,
-            style: { width: 20 },
+            style: { width: 0 },
           },
           {
             key: 'time',
             title: 'Time',
-            style: { width: 20 },
+            style: { width: 0 },
             dataType: DataType.Time,
           },
           {
             key: 'from',
             title: 'From',
-            style: { width: 40 },
+            style: { width: 50 },
             dataType: DataType.String,
           },
           {
             key: 'to',
             title: 'To',
-            style: { width: 40 },
+            style: { width: 50 },
             dataType: DataType.String,
           },
           {
             key: 'route',
             title: 'Route',
-            style: { width: 60 },
+            style: { width: 50 },
             dataType: DataType.String,
           },
         ]}
